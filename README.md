@@ -1,3 +1,3 @@
 # files
 
-Carpeta solo usada para almacenar 10 canciones que se usaran en el repositorio "JT1805" o "https://jairtorres1003.github.io/JT1805/".
+Almacenamiento de archivos externos que se pueden utilizar en repostorios alternos mediante la url
